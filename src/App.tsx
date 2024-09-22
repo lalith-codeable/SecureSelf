@@ -74,11 +74,13 @@ export default function App() {
         </motion.p>
 
         <footer className="absolute flex gap-2 px-4 py-1 items-center justify-center rounded-lg bottom-1 text-gray-400 md:left-5 bg-emerald-300/10 border-t border-emerald-500/20">
+        <div className="p-0.5 rounded-full bg-white">
           <img 
-          src="./src/assets/github-mark-white.png"
+          src="https://github.githubassets.com/favicon.ico"
           alt="github:"
-          className="w-4 h-4" 
+          className="w-4 h-4 bg-white" 
           />
+          </div>
           <a 
           href="https://github.com/lalith-codeable"  
           className="text-white hover:underline underline-offset-4"
