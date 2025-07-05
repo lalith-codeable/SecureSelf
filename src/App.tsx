@@ -82,10 +82,10 @@ export default function App() {
           />
           </div>
           <a 
-          href="https://github.com/lalith-codeable"  
+          href="https://github.com/akeno-hx-dxd"  
           className="text-white hover:underline underline-offset-4"
           target="blank">
-          @lalith-borana
+          @Akeno-hx-dxd
           </a>
         </footer>
       </motion.div>
